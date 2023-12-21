@@ -71,6 +71,9 @@ that contains the classification process.
   We gained 78x speedup over our software tool, 8x over Kraken, 9x over MetaCache and 11x over CLARK.
   This indicates the efficiency and effectiveness of our hardware accelerator in speeding up the process of read classification.
 
+  ![image](https://github.com/BoranSwaid/LSH-minhash-accelerator-project/assets/75131035/49ef9cf2-33e1-49eb-b5cf-83f38701ce64)
+
+
   
 
 
