@@ -1,6 +1,6 @@
 # LSH Minhash hardware accelerator for DNA classification project by: Boran Swaid & Dima Ali-Saleh.
 
-We propos a novel LSH-Minhash accelerator a novel hardware for read classification using the big data technique minhashing.
+We propose a novel LSH-Minhash accelerator a novel hardware for read classification using the big data technique minhashing.
 Our approach performs context-aware classification of reads by computing representative subsamples of k-mers within both, 
 probed reads and their reversed reads and locally constrained regions of the reference genomes.
 
